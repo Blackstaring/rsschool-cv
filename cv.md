@@ -11,3 +11,6 @@ _I have experience in many areas. I want to find a stable job that will bring me
 * Basic JavaScript  
 * GIT  
 * Markdown
+## Languages:
+* Ukraine - C2
+* English - B1
